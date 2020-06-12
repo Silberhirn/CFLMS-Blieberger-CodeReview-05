@@ -1,0 +1,52 @@
+var movies = `[
+	{
+		"name": "name1",
+		"des": "description1 description1 description1 description1 description1 description1 description1 description1 ",
+		"poster": "movie1.jpg"
+	},
+	{
+		"name": "name2",
+		"des": "description2 description2 description2 description2 description2 description2 ",
+		"poster": "movie2.jpg"
+	},
+	{
+		"name": "name3",
+		"des": "description3 description3 description3 description3 description3 description3 description3 description3 description3 ",
+		"poster": "movie3.jpg"
+	},
+	{
+		"name": "name4",
+		"des": "description4 description4 description4 description4 ",
+		"poster": "movie4.jpg"
+	},
+	{
+		"name": "name5",
+		"des": "description5 description5 description5 description5 description5 description5 description5 description5 ",
+		"poster": "movie5.jpg"
+	},
+	{
+		"name": "name6",
+		"des": "description6 description6 description6 description6 description6 description6 description6 description6 description6 ",
+		"poster": "movie6.jpg"
+	},
+	{
+		"name": "name7",
+		"des": "description7 description7 description7 ",
+		"poster": "movie7.jpg"
+	},
+	{
+		"name": "name8",
+		"des": "description8 description8 description8 description8 description8 description8 ",
+		"poster": "movie8.jpg"
+	},
+	{
+		"name": "name9",
+		"des": "description9 description9 description9 description9 description9 description9 description9 ",
+		"poster": "movie9.jpg"
+	},
+	{
+		"name": "name0",
+		"des": "description0 description0 description0 description0 description0 ",
+		"poster": "movie0.jpg"
+	}
+]`

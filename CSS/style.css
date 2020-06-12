@@ -1,0 +1,78 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  margin: 0; }
+
+header h1 {
+  color: white;
+  text-align: center;
+  background-color: black;
+  padding: 0.5em;
+  margin: 0; }
+header nav {
+  background-color: gray;
+  padding: 0.7em; }
+  header nav ul {
+    margin: 0;
+    list-style: none;
+    padding-left: 0.3em; }
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold; }
+
+h2 {
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0.5em; }
+
+main {
+  background-color: #1D2329; }
+  main #sort {
+    position: absolute;
+    right: 0;
+    color: #BEBEBE;
+    padding: 0.7em; }
+  main #container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; }
+
+[id*="movie"] {
+  position: relative;
+  width: 20em;
+  margin: 2em;
+  color: white;
+  background-color: #181818; }
+  [id*="movie"] img {
+    float: left;
+    margin: 5pt 20pt 5pt 5pt;
+    border-radius: 5pt; }
+  [id*="movie"] p {
+    margin: 0; }
+
+[id*="like"] {
+  color: #32A23D; }
+
+[id*="lcount"] {
+  display: flex;
+  background-color: #32A23D;
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5em; }
+
+[id*="lbox"] {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center; }
+
+footer {
+  background-color: black; }
+
+/*# sourceMappingURL=style.css.map */
